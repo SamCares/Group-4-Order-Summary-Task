@@ -50,6 +50,7 @@ Name : Samuel Fatodu  - Administrative task
 Task :
 --->  Create Group repository and monitor every pull request
 --->  Create Asset Folder as the parent folder and create img, design, font and css folder in it 
+Task Status: Done
 
 
 Name : Ariyibi Baseet  - Administrative task
@@ -59,6 +60,7 @@ Task :
 --->  add the order summary capstone images in design folder
 --->  add a comment to all html and css files
 --->  restructure css file and add commenting
+Task Status: Done
 
 
 Name: Abiamowei Victor
@@ -66,6 +68,7 @@ Name: Abiamowei Victor
 Task:
 ---> Create index.html file (with basic html tags) in the same root directory as asset folder
 ---> Create style.css file inside css folder
+Task Status: Done
 
 
 Name: Abdulhakeem Abdurahmon
@@ -73,6 +76,7 @@ Name: Abdulhakeem Abdurahmon
 Task:
 --->  add favicon.png and all required svg images for the project
 --->  link the favicon.png in the head tag and display in in the broswer title bar (as logo)
+Task Status: Done
 
 
 Name: Adebayo Ibrahim Opeyemi
@@ -80,6 +84,7 @@ Name: Adebayo Ibrahim Opeyemi
 Task:
 --->  create a div with a class of `order-summary-card` inside the body tag
 --->  create an img tag with the src of `./asset/img/illustration-hero.svg` and a class of `img-hero-top`
+Task Status: Done
 
 
 Name: Abdullahi Adebayo Abdullahi
@@ -88,6 +93,7 @@ Task:
 --->   create a div with a class of `content-down`
 --->   create a span with a class of `summary-text` inside content-down div tag
 --->   add a content `Order Summary` inside a summary-text span tag
+Task Status: Done
 
 
 
@@ -97,6 +103,7 @@ Task:
 --->  create a p tag with a class of `summary`
 --->  add a content `You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like` inside summary p tag
 --->  after the p tag, create a div with a class of `plan-container`
+Task Status: Done
 
 
 Name: Ariyibi Baseet - normal task
@@ -105,6 +112,7 @@ Task:
 --->  create an img tag with a src of `./asset/img/icon-music.svg` 
 --->  after the img tag create a div with a class of `plan`
 --->  style the body in the css folder, add css reset,add background-image, color and display it as flex
+Task Status: Done
 
 
 Name: Anuoluwapo Tenibiaje
@@ -113,6 +121,7 @@ Task:
 --->  create a span with a class of `annual-text` and after that create a break tag
 --->  add a content `Annual Plan` to the annual-text span tag
 --->  create another span tag with a content `$59.99/year` after the break tag
+Task Status: Done
 
 
 Name: Damilola Idris
@@ -129,6 +138,7 @@ Task:
     }
 }
 `
+Task Status: Done
 
 
 Name: Dahud Yusuf Ishola
@@ -136,12 +146,12 @@ Name: Dahud Yusuf Ishola
 Task:
 ---> create a button tag with a class of `proceed-btn` and content `Proceed to payment` after plan div tag
 ---> create a span with a class of `cancel-order` and a content `Cancel Order` immediately after the proceed-btn button tag
+Task Status: Done
 
 
 Name: Durowade Adeyemi Nathaniel
 -------------------------------------------------------------
 Task:
----> link the locally downloaded font (from font folder) with @font-face rule in the css file
 ---> add a styling to `order-summary-card` in the css file
 `
 .order-summary-card{
@@ -153,6 +163,7 @@ Task:
     box-sizing:border-box;
 }
 `
+Task Status: Done
 
 
 Name: Gomina Maryam
@@ -165,6 +176,7 @@ Task:
     border-radius:15px 15px 0 0;
 }
 `
+Task Status: Done
 
 
 Name: Kehinde Akinola
@@ -177,6 +189,7 @@ Task:
     box-sizing:border-box;
 }
 `
+Task Status: not done
 
 
 Name: NNanna Echi
@@ -191,6 +204,7 @@ Task:
     font-weight:900;
 }
 `
+Task Status: not done
 
 
 Name: Olowogbami Israel Akinyemi
@@ -202,6 +216,7 @@ Task:
     text-align:center;
 }
 `
+Task Status: not done
 
 
 Name: Odiete Oghenemaro Great
@@ -219,6 +234,7 @@ Task:
     border-radius:10px;
 }
 `
+Task Status: not done
 
 
 Name: Renson Gitonga
@@ -230,6 +246,7 @@ Task:
     margin-left:-10px;
 }
 `
+Task Status: not done
 
 
 Name: Simon GitTimothy Awogbuyi
@@ -242,6 +259,7 @@ Task:
     font-weight:bolder;
 }
 `
+Task Status: not done
 
 
 Name: Samuel FatoduOsazuwa Osakpolor
@@ -269,6 +287,7 @@ Task:
     box-shadow:2px 4px 8px hsl(224, 23%, 55%);
 }
 `
+Task Status: not done
 
 
 Name: Yusuf Isioye
@@ -290,3 +309,4 @@ Task:
     cursor:pointer;
 }
 `
+Task Status: Done
