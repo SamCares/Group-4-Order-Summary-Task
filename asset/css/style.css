@@ -25,6 +25,15 @@ body {
 }
 
 
+/* Done by Nnanna Echi*/
+.content-down .summary-text{
+    text-align:center;
+    font-size:25px;
+    display:block;
+    font-weight:900;
+}
+
+
 /* done by Gomina Maryam */
 .img-hero-top {
   width: 100%;
