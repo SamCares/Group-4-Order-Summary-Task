@@ -21,6 +21,19 @@ body {
 
 /* ----------------------------------------------------------------------------------------------- */
 
+/* Added by ODIETE O. GREAT */
+
+.plan-container{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  background-color:hsl(225, 100%, 98%);
+  padding:10px 20px;
+  box-sizing:border-box;
+  border-radius:10px;
+}
+
+
 /* Added by Yusuf Isioye */
 
 .proceed-btn:hover {
