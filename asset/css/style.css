@@ -13,6 +13,18 @@ body {
   background-repeat: no-repeat;
 }
 
+
+/* created by Ariyibi Baseet */
+.order-summary-card{
+  max-width:350px;
+  border-radius:15px;
+  background:#fff;
+  box-sizing:border-box;
+  box-shadow:2px 3px 8px hsl(224, 23%, 55%);
+  box-sizing:border-box;
+}
+
+
 /* done by Gomina Maryam */
 .img-hero-top {
   width: 100%;
@@ -33,4 +45,15 @@ body {
   display: block;
   text-align: center;
   cursor: pointer;
+}
+
+
+/* created by Ariyibi Baseet */
+
+@media screen and (max-width:375px){
+  body{
+      background-image: url("../images/pattern-background-mobile.svg");
+      background: hsl(225, 100%, 94%);
+      width:100%;
+  }
 }
