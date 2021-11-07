@@ -1,19 +1,37 @@
 /* created by Ariyibi Baseet */
-body{
-    margin:0;
-    padding:0;
-    width:100%;
-    min-height:100vh;
-    display:flex;
-    align-items:center;
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
     justify-content: center;
     background-image: url('../images/pattern-background-desktop.svg');
-    background-color:hsl(225, 100%, 94%);
+    background-color: hsl(225, 100%, 94%);
     background-repeat: no-repeat;
 }
+
 
 /* done by Gomina Maryam */
 .img-hero-top{
     width:100%;
     border-radius:15px 15px 0 0;
+
+/* ----------------------------------------------------------------------------------------------- */
+
+
+/* Added by Yusuf Isioye */
+
+.proceed-btn:hover {
+    background-color: hsl(224, 23%, 55%);
+    transition: 300ms ease-in-out;
+}
+
+.cancel-order {
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+    cursor: pointer;
 }
