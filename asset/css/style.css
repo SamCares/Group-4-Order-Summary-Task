@@ -13,17 +13,23 @@ body {
   background-repeat: no-repeat;
 }
 
-
 /* created by Ariyibi Baseet */
-.order-summary-card{
-  max-width:350px;
-  border-radius:15px;
-  background:#fff;
-  box-sizing:border-box;
-  box-shadow:2px 3px 8px hsl(224, 23%, 55%);
-  box-sizing:border-box;
+.order-summary-card {
+  max-width: 350px;
+  border-radius: 15px;
+  background: #fff;
+  box-sizing: border-box;
+  box-shadow: 2px 3px 8px hsl(224, 23%, 55%);
+  box-sizing: border-box;
 }
 
+/* Done by Nnanna Echi(CENSmart) */
+.content-down .summary-text {
+  text-align: center;
+  font-size: 25px;
+  display: block;
+  font-weight: 900;
+}
 
 /* done by Gomina Maryam */
 .img-hero-top {
@@ -35,16 +41,15 @@ body {
 
 /* Added by ODIETE OG. GREAT */
 
-.plan-container{
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  background-color:hsl(225, 100%, 98%);
-  padding:10px 20px;
-  box-sizing:border-box;
-  border-radius:10px;
+.plan-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: hsl(225, 100%, 98%);
+  padding: 10px 20px;
+  box-sizing: border-box;
+  border-radius: 10px;
 }
-
 
 /* Added by Yusuf Isioye */
 
@@ -60,6 +65,7 @@ body {
   cursor: pointer;
 }
 
+
 /* Done by Simon G. */
 .plan > .annual-text{
   text-align: center;
@@ -69,10 +75,10 @@ body {
 
 /* created by Ariyibi Baseet */
 
-@media screen and (max-width:375px){
-  body{
-      background-image: url("../images/pattern-background-mobile.svg");
-      background: hsl(225, 100%, 94%);
-      width:100%;
+@media screen and (max-width: 375px) {
+  body {
+    background-image: url("../images/pattern-background-mobile.svg");
+    background: hsl(225, 100%, 94%);
+    width: 100%;
   }
 }
