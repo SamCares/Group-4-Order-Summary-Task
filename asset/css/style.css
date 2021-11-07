@@ -65,6 +65,14 @@ body {
   cursor: pointer;
 }
 
+
+/* Done by Simon G. */
+.plan > .annual-text{
+  text-align: center;
+  font-weight:bolder;
+}
+
+
 /* created by Ariyibi Baseet */
 
 @media screen and (max-width: 375px) {
