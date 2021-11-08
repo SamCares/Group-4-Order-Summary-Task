@@ -72,6 +72,11 @@ body {
   margin-left: -10px;
 }
 
+span,
+span.annual-text {
+  color: hsl(224, 23%, 55%);
+}
+
 /* added by Samuel Fatodu */
 .change-link {
   color: hsl(245, 75%, 52%);
