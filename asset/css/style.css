@@ -46,6 +46,7 @@ body {
 
 .summary {
   text-align: center;
+  font-size: 14px;
   color: hsl(224, 23%, 55%);
   line-height: 1.5;
 }
@@ -89,6 +90,7 @@ span.annual-text {
 
 .change-link {
   color: hsl(245, 75%, 52%);
+  font-size: 12px;
 }
 
 .change-link:hover {
@@ -140,7 +142,6 @@ span.annual-text {
 .cancel-link {
   text-decoration: none;
   color: hsl(224, 23%, 55%);
-  font-size: 12px;
 }
 
 .cancel-link:hover {
