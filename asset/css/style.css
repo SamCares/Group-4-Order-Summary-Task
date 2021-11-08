@@ -72,15 +72,18 @@ body {
 
 /* done by Abdullahi Abdullahi */
 .plan-container > .plan {
-  margin-left: -10px;
+  margin-left: -50px;
 }
 
 /* added by Samuel Fatodu */
 span {
+  font-size: 15px;
   color: hsl(224, 23%, 55%);
+  line-height: 1.5;
 }
 
 span.annual-text {
+  font-size: 14px;
   color: hsl(223, 47%, 23%);
 }
 
@@ -125,7 +128,8 @@ span.annual-text {
 }
 
 .cancel-order {
-  margin-top: 16px;
+  margin-top: 24px;
+  margin-bottom: 16px;
   display: block;
   text-align: center;
   cursor: pointer;
@@ -136,6 +140,7 @@ span.annual-text {
 .cancel-link {
   text-decoration: none;
   color: hsl(224, 23%, 55%);
+  font-size: 12px;
 }
 
 .cancel-link:hover {
