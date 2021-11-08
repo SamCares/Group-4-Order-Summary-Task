@@ -57,6 +57,14 @@ body {
 }
 
 /* added by Samuel Fatodu */
+.change-link {
+  color: hsl(245, 75%, 52%);
+}
+
+.change-link:hover {
+  text-decoration: none;
+}
+
 .proceed-btn,
 .cancel-order {
   font-weight: bolder;
@@ -79,6 +87,7 @@ body {
 /* inserted by Samuel Fatodu */
 .btn-link {
   text-decoration: none;
+  color: #fff;
 }
 
 /* Added by Yusuf Isioye */
