@@ -136,3 +136,19 @@ body {
     width: 100%;
   }
 }
+<style>
+        /*
+          adjacent siblingn*
+          general sibling -
+        */
+   
+ p {
+      margin-left:-10px;
+ }
+ </style>
+ </head>
+ <body>
+ 
+ <p> Plans  </p>
+
+  
