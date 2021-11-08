@@ -46,6 +46,7 @@ body {
 .summary {
   text-align: center;
   color: hsl(224, 23%, 55%);
+  line-height: 1.5;
 }
 
 /* done by Gomina Maryam */
@@ -99,7 +100,7 @@ span.annual-text {
   margin-top: 20px;
   display: block;
   width: 100%;
-  font-size: 16px;
+  font-size: 13px;
   border-radius: 10px;
   border: hidden;
   padding: 10px 15px;
