@@ -56,6 +56,26 @@ body {
   border-radius: 10px;
 }
 
+/* added by Samuel Fatodu */
+.proceed-btn,
+.cancel-order {
+  font-weight: bolder;
+}
+
+.proceed-btn {
+  margin-top: 20px;
+  display: block;
+  width: 100%;
+  font-size: 16px;
+  border-radius: 10px;
+  border: hidden;
+  padding: 10px 15px;
+  color: #fff;
+  cursor: pointer;
+  background-color: hsl(245, 75%, 52%);
+  box-shadow: 2px 4px 8px hsl(224, 23%, 55%);
+}
+
 /* Added by Yusuf Isioye */
 
 .proceed-btn:hover {

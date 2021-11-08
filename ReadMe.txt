@@ -204,7 +204,7 @@ Task:
     font-weight:900;
 }
 `
-Task Status: not done
+Task Status: Done
 
 
 Name: Olowogbami Israel Akinyemi
@@ -216,7 +216,7 @@ Task:
     text-align:center;
 }
 `
-Task Status: not done
+Task Status: Done
 
 
 Name: Odiete Oghenemaro Great
@@ -234,7 +234,7 @@ Task:
     border-radius:10px;
 }
 `
-Task Status: not done
+Task Status: Done
 
 
 Name: Renson Gitonga
@@ -259,7 +259,7 @@ Task:
     font-weight:bolder;
 }
 `
-Task Status: not done
+Task Status: Done
 
 
 Name: Samuel FatoduOsazuwa Osakpolor
@@ -287,7 +287,7 @@ Task:
     box-shadow:2px 4px 8px hsl(224, 23%, 55%);
 }
 `
-Task Status: not done
+Task Status: Done
 
 
 Name: Yusuf Isioye
