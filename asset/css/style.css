@@ -23,6 +23,11 @@ body {
   box-sizing: border-box;
 }
 
+.content-down {
+  padding: 20px;
+  box-sizing: border-box;
+}
+
 /* Done by Nnanna Echi(CENSmart) */
 .content-down .summary-text {
   text-align: center;
@@ -66,6 +71,7 @@ body {
 .plan-container > .plan {
   margin-left: -10px;
 }
+
 /* added by Samuel Fatodu */
 .change-link {
   color: hsl(245, 75%, 52%);
