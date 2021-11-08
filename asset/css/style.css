@@ -10,6 +10,7 @@ body {
   justify-content: center;
   background-image: url("../images/pattern-background-desktop.svg");
   background-color: hsl(225, 100%, 94%);
+  font-family: "Red-Hat-Display", sans-serif;
   background-repeat: no-repeat;
 }
 
@@ -72,6 +73,7 @@ body {
   margin-left: -10px;
 }
 
+/* added by Samuel Fatodu */
 span {
   color: hsl(224, 23%, 55%);
 }
@@ -80,7 +82,6 @@ span.annual-text {
   color: hsl(223, 47%, 23%);
 }
 
-/* added by Samuel Fatodu */
 .change-link {
   color: hsl(245, 75%, 52%);
 }
