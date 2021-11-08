@@ -104,6 +104,10 @@ body {
   cursor: pointer;
 }
 
+.cancel-order:hover {
+  color: hsl(223, 47%, 23%);
+}
+
 /* inserted by Samuel Fatodu */
 
 .cancel-link {
