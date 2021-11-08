@@ -33,17 +33,13 @@ body {
 .content-down .summary-text {
   margin-top: 16px;
   text-align: center;
-  font-size: 25px;
+  font-size: 24px;
   display: block;
   font-weight: 900;
+  color: rgb(31, 47, 86);
 }
 
 /* inserted by Samuel Fatodu */
-
-.summary-text {
-  color: rgb(31, 47, 86);
-  font-size: 24px;
-}
 
 .summary {
   text-align: center;
