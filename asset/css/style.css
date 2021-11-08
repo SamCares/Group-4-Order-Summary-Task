@@ -34,7 +34,7 @@ body {
 /* inserted by Samuel Fatodu */
 
 .summary-text {
-  color: hsl(223, 47%, 23%);
+  color: rgb(31, 47, 86);
 }
 
 .summary {
@@ -62,6 +62,10 @@ body {
   border-radius: 10px;
 }
 
+/* done by Abdullahi Abdullahi */
+.plan-container > .plan {
+  margin-left: -10px;
+}
 /* added by Samuel Fatodu */
 .change-link {
   color: hsl(245, 75%, 52%);
