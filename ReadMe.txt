@@ -189,7 +189,7 @@ Task:
     box-sizing:border-box;
 }
 `
-Task Status: not done
+Task Status: Done
 
 
 Name: NNanna Echi
@@ -246,7 +246,7 @@ Task:
     margin-left:-10px;
 }
 `
-Task Status: not done
+Task Status: Done
 
 
 Name: Simon GitTimothy Awogbuyi
