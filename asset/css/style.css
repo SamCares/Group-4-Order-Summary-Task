@@ -74,6 +74,10 @@ body {
   cursor: pointer;
   background-color: hsl(245, 75%, 52%);
   box-shadow: 2px 4px 8px hsl(224, 23%, 55%);
+}
+
+/* inserted by Samuel Fatodu */
+.btn-link {
   text-decoration: none;
 }
 
@@ -89,6 +93,11 @@ body {
   display: block;
   text-align: center;
   cursor: pointer;
+}
+
+/* inserted by Samuel Fatodu */
+
+.cancel-link {
   text-decoration: none;
 }
 
