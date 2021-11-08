@@ -108,6 +108,9 @@ body {
 
 .cancel-link {
   text-decoration: none;
+}
+
+.cancel-link:hover {
   color: hsl(223, 47%, 23%);
 }
 
