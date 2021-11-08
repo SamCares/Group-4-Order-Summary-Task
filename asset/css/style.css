@@ -32,8 +32,14 @@ body {
 }
 
 /* inserted by Samuel Fatodu */
+
+.summary-text {
+  color: hsl(224, 23%, 55%);
+}
+
 .summary {
   text-align: center;
+  color: hsl(224, 23%, 55%);
 }
 
 /* done by Gomina Maryam */
@@ -108,6 +114,7 @@ body {
 
 .cancel-link {
   text-decoration: none;
+  color: hsl(224, 23%, 55%);
 }
 
 .cancel-link:hover {
