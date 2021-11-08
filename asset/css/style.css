@@ -101,6 +101,7 @@ span.annual-text {
 
 .proceed-btn {
   margin-top: 20px;
+  padding: 15px;
   display: block;
   width: 100%;
   font-size: 13px;
@@ -127,6 +128,7 @@ span.annual-text {
 }
 
 .cancel-order {
+  padding: 0%;
   margin-top: 24px;
   margin-bottom: 16px;
   display: block;
@@ -151,6 +153,14 @@ span.annual-text {
   font-weight: bolder;
 }
 
+/* Added by Samuel Fatodu */
+.attribution {
+  font-size: 0.6875rem;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
 /* created by Ariyibi Baseet */
 
 @media screen and (max-width: 375px) {
