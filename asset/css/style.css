@@ -60,6 +60,7 @@ body {
 .proceed-btn,
 .cancel-order {
   font-weight: bolder;
+  text-decoration: none;
 }
 
 .proceed-btn {
@@ -74,7 +75,6 @@ body {
   cursor: pointer;
   background-color: hsl(245, 75%, 52%);
   box-shadow: 2px 4px 8px hsl(224, 23%, 55%);
-  text-decoration: none;
 }
 
 /* Added by Yusuf Isioye */
